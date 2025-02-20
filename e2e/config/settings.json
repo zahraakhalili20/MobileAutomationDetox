@@ -1,0 +1,8 @@
+{
+  "language": "ar",
+  "admin_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MjM3MjAxODUsImV4cGlyZXNJbiI6NDMyMCwiZXhwaXJ5RGF0ZSI6IjIwMjQtMDgtMTVUMTI6MjI6MTUrMDA6MDAiLCJpcCI6Ijo6ZmZmZjoxNzIuMjcuODIuMTcyIiwidXNlcklkIjoiNjZiYmYwZjJjMWE3OTIzMzk5MWEyM2Q3Iiwicm9sZUlkIjoiODNiYTQ5NDgtMjQyMi00ZjMxLWI2YzUtMjhiZmQ3Nzg1MmJmIiwidXNlck5hbWUiOiJ0ZXN0LWF1dG9tYXRpb24tdXNlciJ9.vDxWc9JlRE42DxMTrjmNIoPhE1de64mxqHoqxUBaI_A",
+  "delivery_fee": 29,
+  "vat": 15,
+  "SKIP_NORMAL_SETUP": false,
+  "test_users": []
+}
